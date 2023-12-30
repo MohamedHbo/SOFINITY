@@ -59,7 +59,7 @@ p{
 }
 .btn{
     display: inline-block;
-    background: linear-gradient(135deg,  #ffcc66, #664400);
+    background: linear-gradient(135deg,  red, red);
     color: #fff;
     padding: 8px 30px;
     margin: 30px 0;
@@ -71,7 +71,7 @@ p{
 }
 
 .header{
-   background: linear-gradient(135deg, #F19C2D, #9b59b6);
+   background: linear-gradient(135deg, #342B2B, #620000);
 }
 
 .header .row{
